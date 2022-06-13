@@ -1,9 +1,12 @@
 {
-  "name": "jest-error-coverage",
-  "scripts": {
-    "test": "jest --coverage"
-  },
-  "devDependencies": {
-    "jest": "^28.1.1"
-  }
+    "name": "jest-error-coverage",
+    "scripts": {
+        "test": "jest --coverage"
+    },
+    "devDependencies": {
+        "@types/jest": "^28.1.1",
+        "jest": "^28.1.1",
+        "ts-jest": "^28.0.4",
+        "typescript": "^4.6.3"
+    }
 }
