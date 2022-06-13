@@ -1,7 +1,7 @@
 {
     "name": "jest-error-coverage",
     "scripts": {
-        "test": "jest --coverage"
+        "test": "jest"
     },
     "devDependencies": {
         "@types/jest": "^28.1.1",
